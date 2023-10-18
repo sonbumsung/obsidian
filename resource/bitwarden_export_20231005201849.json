@@ -1,0 +1,5793 @@
+{
+  "encrypted": false,
+  "folders": [
+    {
+      "id": "c7e72b25-137b-4e80-865b-2c424739e932",
+      "name": "(없음)"
+    },
+    {
+      "id": "ceab5bde-6636-4833-a046-ece87261ca7a",
+      "name": "금융"
+    },
+    {
+      "id": "50de9c2c-2b0c-4c56-9e95-e6835042b541",
+      "name": "뉴스/참고"
+    },
+    {
+      "id": "cdd25598-0d33-415e-83dc-756cd802106a",
+      "name": "쇼핑"
+    },
+    {
+      "id": "2397ce42-c7cc-4080-805d-acd0fa82fa89",
+      "name": "안전한 메모"
+    },
+    {
+      "id": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "name": "회사"
+    },
+    {
+      "id": "8a6df411-4049-40ba-8361-5fb966f3862e",
+      "name": "Business"
+    },
+    {
+      "id": "00170023-cf99-433f-aad2-01e62d4ab75e",
+      "name": "Email"
+    },
+    {
+      "id": "313a83e7-f2eb-4885-b17b-dcd63abecda6",
+      "name": "Entertainment"
+    },
+    {
+      "id": "bb2d654e-67da-48fa-9ca4-3855c3699d4c",
+      "name": "Home"
+    },
+    {
+      "id": "5b66200e-71d7-40d2-a6af-0e134d13fdb2",
+      "name": "News/Reference"
+    },
+    {
+      "id": "592463f0-554d-4e57-9cc9-3ca716e09a79",
+      "name": "Productivity Tools"
+    },
+    {
+      "id": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "name": "Shopping"
+    },
+    {
+      "id": "72bfa00c-960a-41ed-9414-cfa75d0d4c3f",
+      "name": "Social"
+    }
+  ],
+  "items": [
+    {
+      "id": "7fd5275e-cad0-4e07-8aaa-b0d5832d9267",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "4kcctv.net",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://4kcctv.net/bbs/board.php?bo_table=psd_caption"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "06a8a76d-d6c0-4faf-b6f2-b700de683ed2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "5p.olivegame.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://5p.olivegame.com/5pradio/details.jump"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bb01badb-48cd-4c13-9254-7fa2a1bdcf2a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "10.81.11.16",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://10.81.11.16/uat/uia/LoginUsr.do;jsessionid=C5D8CEFDC5F61BC102D5F475BC614A2E"
+          }
+        ],
+        "username": "cks6451",
+        "password": "dogen1234",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0d92a394-d53e-48e4-9f6b-97c3e1a6f5a7",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "10.81.11.16",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://10.81.11.16/uat/uia/actionMain.do"
+          }
+        ],
+        "username": "yoonsangan",
+        "password": "dogen1234",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7b7726bf-65b5-4cb8-be1d-1e33a47e1ec2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "10.81.11.17",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://10.81.11.17:10088/uat/uia/actionSsoLogin.do?epTicket=LOG"
+          }
+        ],
+        "username": "cks6451",
+        "password": "dogen1234",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9ab8403f-ebce-4344-bbe9-d2f6f85bae03",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "10.81.11.17",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://10.81.11.17:10088/uat/uia/LoginUsr.do"
+          }
+        ],
+        "username": "yoonsangan",
+        "password": "dogen1234",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9bffb156-0df9-432a-9d3c-cc761019c434",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "10.110.101.76",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://10.110.101.76:8080/WebInterface/login.html"
+          }
+        ],
+        "username": "muzuks",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9133af7b-627c-4246-86a7-6739e2853ddb",
+      "organizationId": null,
+      "folderId": "cdd25598-0d33-415e-83dc-756cd802106a",
+      "type": 1,
+      "reprompt": 0,
+      "name": "11st.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.11st.co.kr/login/Login.tmall?returnURL=http%3A%2F%2Fwww.11st.co.kr%2Fhtml%2Fmain.html%3Fgclid%3DCjwKEAjwj92_BRDQ-NuC98SZkWYSJACWmjhl1yad7ku5b9nmYQUiId0whIxY1bK_8P3f6iedqjOTRRoCDXjw_wcB%26utm_term%3D11%25B9%25F8%25B0%25A1%26utm_campaign%3D%25B1%25B8%25B1%25DB_1105%26utm_source%3D%25B1%25B8%25B1%25DB_S%26utm_medium%3D%25B0%25CB%25BB%25F6&errorCode=001&age19="
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c3fc7b0f-08b4-4ba2-ae2c-5356ebeaa406",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "14.41.60.158",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://14.41.60.158/uat/uia/actionMain.do"
+          }
+        ],
+        "username": "cks6451",
+        "password": "dogen1234",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6630ddf0-69eb-4289-ad41-f4485bd1688f",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "192.168.0.1",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://192.168.0.1/sess-bin/login_session.cgi"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c3b79fb9-048e-428f-8985-1a364f843bd7",
+      "organizationId": null,
+      "folderId": "bb2d654e-67da-48fa-9ca4-3855c3699d4c",
+      "type": 1,
+      "reprompt": 0,
+      "name": "192.168.1.1",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://192.168.1.1/ui/1.0.99.198962/dynamic/login.html#"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ed185244-333c-48f9-a921-155a5c1d8e91",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "192.168.1.21",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://192.168.1.21:5000/?_dc=1595580464742"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "fb6e4623-da0e-49f8-b8b5-2cda467fbc0b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "192.168.1.21",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://192.168.1.21:5101/#/"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bed94a22-8181-4dde-80d7-e9b580e72fd8",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "192.168.1.22",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://192.168.1.22:5000/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "384fb361-8eb7-42d5-aa2d-1b0e3d41d2c4",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "210.57.224.191",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://210.57.224.191:8000/"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a9737c75-f0e2-4f65-9900-6bdff785e66e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "211.34.149.49",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://211.34.149.49/"
+          }
+        ],
+        "username": "21100169",
+        "password": "811027",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e9103145-fd4a-4236-a695-83461864e3c5",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "222.122.41.67",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://222.122.41.67"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8856ca76-8d48-4d78-a125-a6a0212ab383",
+      "organizationId": null,
+      "folderId": null,
+      "type": 3,
+      "reprompt": 0,
+      "name": "네이버 현대카드",
+      "notes": null,
+      "favorite": false,
+      "card": {
+        "cardholderName": "손범성",
+        "brand": "Visa",
+        "number": "4045770033034205",
+        "expMonth": "7",
+        "expYear": "2027",
+        "code": "188"
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "fe8a1b52-d71e-481d-bc29-f919bd75853e",
+      "organizationId": null,
+      "folderId": "ceab5bde-6636-4833-a046-ece87261ca7a",
+      "type": 1,
+      "reprompt": 0,
+      "name": "모바일 일반결제(ISP)",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://mispandroid320.jjy.kvp"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bbde0345-ea94-497a-a1bd-3f065a4c8fe8",
+      "organizationId": null,
+      "folderId": null,
+      "type": 3,
+      "reprompt": 0,
+      "name": "배민",
+      "notes": null,
+      "favorite": false,
+      "card": {
+        "cardholderName": "손범성",
+        "brand": "Mastercard",
+        "number": "5389200030642170",
+        "expMonth": "2",
+        "expYear": "2022",
+        "code": "039"
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c765e135-8266-4bc1-baae-fb32d39c21c8",
+      "organizationId": null,
+      "folderId": null,
+      "type": 3,
+      "reprompt": 0,
+      "name": "삼성증권",
+      "notes": null,
+      "favorite": false,
+      "card": {
+        "cardholderName": "손범성",
+        "brand": null,
+        "number": "707580703801",
+        "expMonth": null,
+        "expYear": null,
+        "code": "6519"
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "65d2bb2d-bef1-4f4a-8d41-610332c99ea6",
+      "organizationId": null,
+      "folderId": null,
+      "type": 3,
+      "reprompt": 0,
+      "name": "삼성페이(해지)",
+      "notes": "해지",
+      "favorite": false,
+      "card": {
+        "cardholderName": "SON BUMSUNG",
+        "brand": "Mastercard",
+        "number": "5366480004025277",
+        "expMonth": "8",
+        "expYear": "2025",
+        "code": "889"
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "254ab166-63a3-40ab-874c-385d896e2138",
+      "organizationId": null,
+      "folderId": null,
+      "type": 3,
+      "reprompt": 0,
+      "name": "신한카드",
+      "notes": "Mr.life",
+      "favorite": false,
+      "card": {
+        "cardholderName": "SON BUM SUNG",
+        "brand": null,
+        "number": "9410618665772384",
+        "expMonth": "1",
+        "expYear": "2028",
+        "code": "362"
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "17589663-8d02-4bc5-b6c3-468d2801de50",
+      "organizationId": null,
+      "folderId": null,
+      "type": 4,
+      "reprompt": 0,
+      "name": "우리집",
+      "notes": null,
+      "favorite": false,
+      "fields": [
+        {
+          "name": "Gender",
+          "value": "m",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "Birthday",
+          "value": "1981-10-27",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "우리은행 계좌",
+          "value": "1002-833-528467",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "유니패스 개인통관고유번호",
+          "value": "P200001573207",
+          "type": 0,
+          "linkedId": null
+        }
+      ],
+      "identity": {
+        "title": "Mr",
+        "firstName": "범성",
+        "middleName": null,
+        "lastName": "손",
+        "address1": "서울특별시 서초구 서초동 1588-5 디아레나서초",
+        "address2": "101동 903호",
+        "address3": null,
+        "city": null,
+        "state": null,
+        "postalCode": null,
+        "country": null,
+        "company": "도젠소프트",
+        "email": "muzuk2000@gmail.com",
+        "phone": "01038574240",
+        "ssn": null,
+        "username": "손범성",
+        "passportNumber": "M85861479",
+        "licenseNumber": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ab091510-48c9-487f-8288-2af77f28841a",
+      "organizationId": null,
+      "folderId": "ceab5bde-6636-4833-a046-ece87261ca7a",
+      "type": 1,
+      "reprompt": 0,
+      "name": "원터치알림",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://alrim.wr.com"
+          }
+        ],
+        "username": null,
+        "password": "646519",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9698872d-619b-445f-8653-5777c2d667cb",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "abijou.slack.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://abijou.slack.com/join/invite/MTY5OTI0NDg1MDQyLTE0OTIzOTIwMTQtOGZkYWZjYThjOA"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8ab2d818-5cf1-4dac-aea2-f6e45a844138",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "abjct.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.abjct.com:8080/login"
+          }
+        ],
+        "username": "abijou1111",
+        "password": "0",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c3696c21-93f9-4dfe-8527-dcfb2cb59bbb",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "academy.kisa.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://academy.kisa.or.kr/member/login.kisa"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9a6b9ba4-66f5-4b80-abcc-aea5935ffde9",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "academy.kisa.or.kr (2)",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://academy.kisa.or.kr/member/login.kisa"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2b20d306-7b90-4e31-9afa-ea13d97477bf",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "account.battle.net",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://account.battle.net/login/ko/?ref=https://oauth.battle.net/authorize?response_type%3Dcode%26client_id%3D057adb2af62a4d59904f74754838c4c8%26scope%3Daccount.full%2520commerce.virtualcurrency.full%2520account-settings.full%26state%3DYlhp-VAWl2X2nCQFURtPtHS5SZIsL4VMq1UzSU8W6cc%253D%26redirect_uri%3Dhttps://account.battle.net/callback/oauth2/code/account-settings&app=bas"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "Q?9FS*Y6r$/d(*Z",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "56e6e4b3-8a5f-4526-ba16-b695e9ba923a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "account.quest.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://account.quest.com/account/ResetPassword/c24f0946-6482-48c2-aa76-b1c4ec04f7a0"
+          }
+        ],
+        "username": null,
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7290851c-55c0-4cc8-b5fd-11efb02a7a39",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "account.samsung.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://account.samsung.com/account/signIn.do"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "LedtwKQAh9CH14uJGx+evw==",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "4876d486-09d6-4f40-94ee-c9284c0e3868",
+      "organizationId": null,
+      "folderId": "00170023-cf99-433f-aad2-01e62d4ab75e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "accounts.google.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://accounts.google.com/ServiceLogin"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "82d796b7-fa86-47cb-a61a-dbeb37ee5009",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "alphascan.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.alphascan.co.kr/page2.php?LinkPage=login&prev_url2=%2F"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "cccbc7b1-586c-446f-9e8b-e8dc43a0dbff",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "amazon.co.jp",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.amazon.co.jp/ap/signin"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "3ead5b03-2cda-4d37-95c1-cd076710058a",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "amazon.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.amazon.com/ap/signin"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "3488adeb-280a-4e9a-bfbd-c350cce9751d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "AnyDesk",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "username": "muzuk2000@gmail.com",
+        "password": "!@Sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "cdce615a-aebe-47df-b345-14f0c5973e11",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "auction.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://member.auction.co.kr/Authenticate/?url=http%3a%2f%2fwww.auction.co.kr&return_value=0"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "415c6e02-3ca6-4a5b-8e3a-5cd39f5ad694",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "auth.danawa.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://auth.danawa.com/login?url=https%3A%2F%2Fwww.danawa.com%2F%3Fsrc%3Dadwords%26kw%3DGA0000020%26gclid%3DCjwKCAjwoIqhBhAGEiwArXT7K0k8BzqtsSMXH8Wa4Ym4mKWWYlHFp8ZV117B38f8b6wq_iDc9BdBFBoCDy8QAvD_BwE"
+          }
+        ],
+        "username": "muzuks",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "4147d623-9a6b-4480-8f15-b1726b6f64ec",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "auth.skt-id.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://auth.skt-id.co.kr/auth/authorize.do"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6ba16a4a-719d-41a1-a48a-fb1b2d7e3e7c",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "bugs.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://music.bugs.co.kr/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "187f1c3b-c322-4b5c-b869-2ecdc8f2b4cc",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "bunco.co",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://bunco.co/bunyuc/signup?utmzz=utmcsr%253Dgoogle%257Cutmcmd%253Dorganic%257Cutmccn%253D%28not%2520set%29%257Cutmctr%253D%28not%2520provided%29&webuid=5jmdii"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "VNr!KZ56nQjJ#",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7e49ec5e-50c5-4006-aad6-d842d4cf6001",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "bunjang.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://m.bunjang.co.kr"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7b788d1a-dc83-43a0-8cf7-d2f2b7daadbc",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "bunyangi.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.bunyangi.com/?page=login"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "6fEti2V$#grwNZ",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "092c3b66-6974-48ca-ba04-78d6c84b3c83",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "cardpoint.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.cardpoint.or.kr/signin"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "39450df8-3fe6-4eb6-b9bd-2f892b910c39",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "cef.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://phrvdicntv1.vdi.cef.or.kr/portal/webclient/index.html#/"
+          }
+        ],
+        "username": "21100169",
+        "password": "!@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "90cb78e0-f1ae-4fc7-b8a9-55f779d08a33",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "cineaste.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://cineaste.co.kr/bbs/register_form.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "dc6b0a10-cbd0-419e-b6d4-1ef054eda986",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "cmcseoul.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.cmcseoul.or.kr/member/login.jsp"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0d26e598-1d9d-415f-ad20-b5970c4bc642",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.aspiro.tidal",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.aspiro.tidal"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2708182c-4dcd-4ab2-9f97-34716a3292c3",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.aspiro.tidal",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.aspiro.tidal"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "76773c0e-52ac-4216-abda-4da72c37b98e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.aspiro.tidal",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.aspiro.tidal"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "95e1d478-ef90-4b0f-a090-3581109130a2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.azure.authenticator",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.azure.authenticator"
+          }
+        ],
+        "username": "muzuks@live.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "f6380c3c-c0d2-4335-84f7-f6e92df612bc",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.cultureland.ver2",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.cultureland.ver2"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "ss112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "f41690cc-e8e8-47ea-b2b1-1aa134923160",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.elz.secondhandstore",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.elz.secondhandstore"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "85ebf520-ee5f-42c5-a0aa-c71b997fb7db",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.korail.talk",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.korail.talk"
+          }
+        ],
+        "username": "0731565735",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "76cc0a9e-9c15-4922-95b1-ac262653aff4",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.kyobo.ebook.samsung",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.kyobo.ebook.samsung"
+          }
+        ],
+        "username": "muzuks",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0a623e5a-e9d2-481e-b9ae-afaafd55b8a5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.microsoft.todos",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.microsoft.todos"
+          }
+        ],
+        "username": "muzuks@live.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7fe37cfd-2abe-4be7-8604-59a43e5e8fbb",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.mxtech.videoplayer.ad",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.mxtech.videoplayer.ad"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a60c1b91-102c-4af0-b602-400718ac1365",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.nbdproject.macarong",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.nbdproject.macarong"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7789ca4d-1cb6-459d-95f5-abd4f5172a86",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.netflix.mediaclient",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.netflix.mediaclient"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "800f471b-a9e7-4221-893f-6b5b252765c0",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.nhn.android.search",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.nhn.android.search"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9abc23aa-6bb8-4370-830c-793f17eb47e7",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.osp.app.signin",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.osp.app.signin"
+          }
+        ],
+        "username": null,
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "3b16e97b-070f-4fcd-8a8f-ef34f7f2f09b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.samsung.android.scloud",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.samsung.android.scloud"
+          }
+        ],
+        "username": "muzuks@live.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2c5aa80f-e3dc-49f4-a7eb-897ddd313dc0",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.samsung.knox.securefolder",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.samsung.knox.securefolder"
+          }
+        ],
+        "username": null,
+        "password": "646519",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "47d86ced-89d3-4ff6-94a5-d0d26801c109",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.streamsoftinc.sony360ramobile",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.streamsoftinc.sony360ramobile"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!Sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e4c68bf7-789c-4bed-803f-d7cbe9348a6e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.streamsoftinc.sony360ramobile",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.streamsoftinc.sony360ramobile"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!Sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2b0e0c68-b485-4487-8eb3-b5a44c5545a1",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.sweettracker.smartparcel",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.sweettracker.smartparcel"
+          }
+        ],
+        "username": "muzuks",
+        "password": "s0070157",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6ce52c52-c116-4f2f-b649-1d10fa49c4f8",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.sweettracker.smartparcel",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.sweettracker.smartparcel"
+          }
+        ],
+        "username": "muzuks",
+        "password": "ss00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "786b8ead-162c-4fc2-a1b0-ef1f58ad6c91",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.sweettracker.smartparcel",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.sweettracker.smartparcel"
+          }
+        ],
+        "username": "muzuks",
+        "password": "ss00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c02a5fd6-ef8a-48bf-9d99-67f0e159a321",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.synology.DSdownload",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.synology.DSdownload"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "f7946293-25f2-470b-90ab-fbe9b9f23825",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.synology.DSdownload",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.synology.DSdownload"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6e636071-73a7-4655-9e37-571d18792c10",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.synology.DSfile",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.synology.DSfile"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "efd03796-9656-48bc-b411-a02b1db11ebd",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.synology.dsnote",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.synology.dsnote"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "df80eb77-4eba-4cd5-b3b5-bdda1fb6f5a2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.synology.dsvideo",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.synology.dsvideo"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "4b3f1cb4-8d47-418d-b34b-9283d5b4bb1b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.tmon",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.tmon"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9996ff86-754e-4cc0-83a9-2d88f5998960",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.velox.hkmc_tm1k",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.velox.hkmc_tm1k"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6ff234d8-f845-44c9-be82-b8041a07c20f",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.vitalsource.bookshelf",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.vitalsource.bookshelf"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!Sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0fc60746-caa4-460b-a200-44aed223625e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.wooribank.smart.npib",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.wooribank.smart.npib"
+          }
+        ],
+        "username": null,
+        "password": "MUZUKS",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "120f98ee-7f8b-4200-bc79-f7970ac3c2f1",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.wooribank.smart.npib",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.wooribank.smart.npib"
+          }
+        ],
+        "username": null,
+        "password": "MUZUKS",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ab4a512b-7a68-497b-92bf-774006251a36",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.wooribank.smart.npib",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.wooribank.smart.npib"
+          }
+        ],
+        "username": "MUZUKS",
+        "password": "@sbs00701057",
+        "totp": "646519"
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "fa4d66b9-4f30-457d-a44e-0486162168d3",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.xiaomi.smarthome",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://com.xiaomi.smarthome"
+          }
+        ],
+        "username": null,
+        "password": "82P91RMfiY6$$X",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "4b267c1b-2f85-48bc-a4b6-e31402939f28",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "connect.ubisoft.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://connect.ubisoft.com/link?appId=7b530ae1-86e2-4753-921a-267d4b0e498d&genomeId=75ec9f07-37d9-40e3-9447-1e18def9374a&lang=ko-KR&nextUrl=https:%2F%2Fepicgames.com%2Fid%2Foauth-authorized%3Fstate%3DeyJpZCI6ImVkNTNjMzIzZjQ0MjRlYjhiZWJhYzk4NTllYzFmMzUxIiwibG9naW5SZXF1ZXN0SWQiOiIyM2VjNDk5NzJiYWY0YWU4YTIwYWE2Zjg3ZTNiNjZkOCJ9%26provider%3Dubisoft"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "jTE'hgathS5E$F/",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0e0b070a-bd61-4c3b-9947-08b9db87d8b1",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "cooln.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://cooln.kr/plugin/sms5/ipin_main.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "f749c03a-5308-45b6-b17c-6fb882d48137",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "coupang.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.coupang.com/login/login.pang"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "980930a9-d386-4451-aa56-d50785a68b10",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "ctrip.english",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://ctrip.english"
+          }
+        ],
+        "username": null,
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "f8b9c151-d78b-4143-afe7-7bd02ef3bd68",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "customer.kbcard.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://customer.kbcard.com/"
+          }
+        ],
+        "username": "muzuks",
+        "password": "q332255",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "dc541bde-1e78-4731-8ca6-b44eb26160e0",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "danawa.com",
+      "notes": "\u0010",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.danawa.com/login.php"
+          }
+        ],
+        "username": "muzuks",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8192579e-de43-41f8-9d8a-e00b6463d117",
+      "organizationId": null,
+      "folderId": "50de9c2c-2b0c-4c56-9e95-e6835042b541",
+      "type": 1,
+      "reprompt": 0,
+      "name": "daum.net",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.daum.net/"
+          }
+        ],
+        "username": "mu-zuk",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "666cdf25-20de-4887-a890-b2686a9876c0",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "ddanzi.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.ddanzi.com/?act=dispMemberSignUpForm"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "3a5e3210-79e6-413a-b17b-16297c89e1fb",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "discoverglo.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.discoverglo.co.kr/"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6e81b797-fc41-41db-8dbf-1df27ddb0953",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "doctordosirak.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.doctordosirak.kr/member/join.html#none"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "#sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b9f2d181-5c0f-4a71-960e-8451692d7007",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "doctordosirak.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.doctordosirak.kr/member/login.html"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "#sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5165413d-e4a0-40bb-8226-20cf9bb74d46",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "dream maker",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "username": "muzuks@naver.com",
+        "password": "1q2w3e4r",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c504ed70-4c02-47eb-9100-dee6070d86c2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "dwdfs.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.dwdfs.com/member/join/step3_1.dw"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d6081ddd-a141-4363-9e5d-bdc162fdbbbe",
+      "organizationId": null,
+      "folderId": "8a6df411-4049-40ba-8361-5fb966f3862e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "dyn.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://account.dyn.com/entrance/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a7d37efd-26ac-4e60-a77d-20e23f4826db",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "edu.cef.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://cef.credu.com/"
+          }
+        ],
+        "username": "cef21100169",
+        "password": "sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "fdc53aeb-3c49-48d3-97e4-cd182e92c409",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "engnalda.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.engnalda.com/member.php#self"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5535f02f-00a4-4346-aef6-2114f7f582b1",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "epicgames.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.epicgames.com/id/link/steam/new?lang=ko&redirect_uri=https%3A%2F%2Fstore.epicgames.com%2Fko%2Fp%2Fred-dead-redemption-2&client_id=875a3b57d3a640a6b7f9b4e883463ab4"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "yn4DhfnSc!-L@u,",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6fd459ec-b38c-496c-9e9e-a6be5818d66b",
+      "organizationId": null,
+      "folderId": "592463f0-554d-4e57-9cc9-3ca716e09a79",
+      "type": 1,
+      "reprompt": 0,
+      "name": "evernote.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.evernote.com/ResetPassword.action"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "75c262c5-4125-4c8e-bc59-bd3ecbe56fd2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "expressvpn.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.expressvpn.com/kr/sign-in"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "xq7VDBB7",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "495cfb38-bcad-4223-98ed-73351bda51b3",
+      "organizationId": null,
+      "folderId": "72bfa00c-960a-41ed-9414-cfa75d0d4c3f",
+      "type": 1,
+      "reprompt": 0,
+      "name": "facebook.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://m.facebook.com/"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "#sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b9688f09-1051-4702-9fcd-ecc3570b627e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "facebook.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.facebook.com/login.php?skip_api_login=1&api_key=1405157069751410&kid_directed_site=0&app_id=1405157069751410&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.3%2Fdialog%2Foauth%3Fclient_id%3D1405157069751410%26redirect_uri%3Dhttps%253A%252F%252Fopentutorials.org%252Fauth%252Flogin_social_fb%253F%2526rememberme%253Dfalse%2526returnURL%253Dcourse%25252F1%26state%3Dae44c1225b9ef5eff0ec5a611dd1905f%26sdk%3Dphp-sdk-4.0.23%26scope%3Demail%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3Dbfbf6bbd-cfc4-4a8c-b7d8-f19591cea590%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fopentutorials.org%2Fauth%2Flogin_social_fb%3F%26rememberme%3Dfalse%26returnURL%3Dcourse%252F1%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3Dae44c1225b9ef5eff0ec5a611dd1905f%23_%3D_&display=page&locale=ko_KR&pl_dbl=0"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "#s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "562830c2-59bf-4c24-a41f-bcbb3354825d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "front.wemakeprice.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://front.wemakeprice.com/main"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "236b694d-abc1-4ae0-9297-a7790180f22b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "ftp",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://ftp://lionsfirst.cafe24.com/"
+          }
+        ],
+        "username": "lionsfirst",
+        "password": "rudainc123",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8c26036c-0844-4491-903f-c7cdd85c38a8",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "ftp (2)",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://ftp://muzuk2000.ipdisk.co.kr/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "51617642-7805-4f18-b88d-1aee12e6f513",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "gcimed.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.gcimed.com/download/report/"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bca8d965-57cc-40f7-b3e2-ffc2f34aa57e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "github.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://github.com/login"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "fa86bac5-b281-4a2b-bd32-d5680bcaa90e",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "gmarket.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://signinssl.gmarket.co.kr/LogOut/LogOut"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "fed3d803-1e90-4243-b184-d468a6b3a094",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "gov.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.gov.kr/nlogin/?Mcode=10003"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9d29ad69-8972-466d-bfdc-4947b79e41b8",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "group.cef.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://group.cef.or.kr"
+          }
+        ],
+        "username": "21100169",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d7882e50-4a8b-4046-ac2a-29eab3635bd0",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "gsnpoint.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.gsnpoint.com/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0703c011-82e3-4d42-ae5f-3e016f2ce19d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "gsshop.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://with.gsshop.com/cust/login/login.gs?isLoginFail=Y&returnurl=2F7072642F7072642e67733F70726469643D333136353937313926766f64466c61673D4e2675746d5f736f757263653D70726963652675746d5f6d656469756d3D616666696c696174652675746d5f63616d706169676e3D6e61766572266d656469613D4f422666726f6d576974683D59&failCnt=2"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "41a05ff4-a641-410b-a055-8ec6b7786942",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "hdciparkmall.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.hdciparkmall.com/MemberShip/JoinForm#change-address"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5a42f520-f2b8-4935-af08-ab44128664d5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "help.steampowered.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://help.steampowered.com/en/wizard/Login"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "yn4DhfnSc!-L@u,",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d07d43c9-4a4f-4378-af1c-cd07a0b74e6c",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "help.steampowered.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://help.steampowered.com/ko/wizard/HelpUnauthorizedLogin"
+          }
+        ],
+        "username": "muzuks",
+        "password": "yn4DhfnSc!-L@u,",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a8725f04-b122-4263-aefb-ccdd6be8e3ad",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "hi.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.hi.co.kr"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "4240",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "116354e2-2305-4532-ab18-9f7fdd105006",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "hometax.go.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/a/a/UTXPPAAA09.xml"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b1fe37d2-3ebf-4704-93d3-0daf0a8ac5ec",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "hrd.go.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.hrd.go.kr/jsp/HRDP/HRDPZ00/HRDPZ10/HRDPZ10_1Form.jsp?j_nextpage=http%3A%2F%2Fwww.hrd.go.kr%2Fjsp%2FHRDP%2Fmain%2Findex.jsp"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6a3f3955-d1a5-4cd4-9496-9ee429323e01",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "https://codepen.io",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://codepen.io"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "@sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5b47acf6-e5df-4bcf-8e2a-45f30dd974eb",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "hub.docker.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://hub.docker.com/signup"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d8e0ed52-c9da-4d98-bf85-cbeb8d63ff2a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "hyundai.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://prd.kr-ccapi.hyundai.com/web/v1/user/signin"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e85d3bca-bc18-448a-a480-fd5f21756784",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "id.devart.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://id.devart.com/Account/Login"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!@#Ss21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "48d7f12b-f13b-44fe-9f77-f19d222da4ab",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "id.payco.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://id.payco.com/auth/confirmPwd.nhn"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ff1692a5-c2e9-423f-945d-cca17c761686",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "interpark.com",
+      "notes": "interpark.com",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.interpark.com"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e9cbec1d-9095-4ad3-8e1b-07c1271ac06a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "iporter.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.iporter.com/ko/auth/login"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "f2bcfc3d-55ae-410a-9c54-67ef2badbe5d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "iqos.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://kr.iqos.com/ko/register"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "a$QrbWJPZ9$hc^",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bc3a439b-84da-4e22-b4e3-46be1398d0aa",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "its-lil.com",
+      "notes": "릴 에이블 쿠폰번호 : 6062221108205780000",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://its-lil.com/"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "3CUF7kAfVsp7#",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "89c970ac-c6fe-4a9b-8455-b31f3e965c67",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "itsm.cmcnu.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://itsm.cmcnu.or.kr/ck2s/login_itsm.do"
+          }
+        ],
+        "username": "21002524",
+        "password": "21002524",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d5a80781-a05a-4bff-8fcf-a6f28cd1e720",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "itsm.cmcnu.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://itsm.cmcnu.or.kr/ck2s/login_itsm.do"
+          }
+        ],
+        "username": "21100169",
+        "password": "21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c0a645dd-b265-4f56-a3d1-5432b0a273f9",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "itsm.cmcnu.or.kr(박희승)",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://itsm.cmcnu.or.kr/ck2s/login_itsm.do"
+          }
+        ],
+        "username": "21002746",
+        "password": "21002746",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b0f97c73-c724-45b1-8c87-3cbd88707a81",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "jandi.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.jandi.com/landing/kr/register"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0660f195-56e1-4efb-b424-1d2d2117861b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kakao.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://accounts.kakao.com/login?continue=https%3A%2F%2Fkauth.kakao.com%2Foauth%2Fauthorize%3Fredirect_uri%3Dkakaojs%26response_type%3Dcode%26state%3Dvsrlpkqx23i4mv9ccdb0ic%26proxy%3DeasyXDM_Kakao_winklx8as2_provider%26ka%3Dsdk%252F1.36.2%2520os%252Fjavascript%2520lang%252Fko%2520device%252FWin32%2520origin%252Fhttps%25253A%25252F%25252Fwww.dabangapp.com%26origin%3Dhttps%253A%252F%252Fwww.dabangapp.com%26client_id%3Dfb6641f842bc3cd5490627c4300446be"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "92a4f7ff-498d-4f8d-bbc7-d4e96a1911ca",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kicpa.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.kicpa.or.kr/kicpa/login.face?"
+          }
+        ],
+        "username": "cks6451",
+        "password": "choi0408@",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e5e33c0b-e26f-44c0-ae3b-7ac6686d4bde",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kobus.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.kobus.co.kr/web/11_Myungjul/m_reservation_2_1.jsp"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0d656eae-8ab7-4676-83c4-2bcef5cbb103",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "koreanair.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://kr.koreanair.com/korea/ko.html"
+          }
+        ],
+        "username": "muzuk",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "86371291-1cb5-4f9e-a597-3e35e30a2a52",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kr.battle.net",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://kr.battle.net/login/ko/?pai=muzuk2000@gmail.com&_ga=2.186932463.65559339.1654092360-1414281427.1652229675"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ac8b550e-e47e-456f-a388-fd99f308d159",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "ksp.credu.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://ksp.credu.com/ksp/jsp/gate/common/login.jsp?p_grcode=000002&p_site="
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "05fa6fab-9163-45bb-ae53-1f432592f2c6",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kurly.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.kurly.com/shop/member/login.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e17be926-a51a-4730-bdb2-9f225557a481",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kurly.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://kurly.com/shop/member/login.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0c480fa6-8a31-450a-b075-345ea131426e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kyobobook.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.kyobobook.co.kr/login/login.laf"
+          }
+        ],
+        "username": "muzuks",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "44d2a1c1-edca-4cc6-8527-71844a014d04",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kyobobook.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.kyobobook.co.kr/login/login.laf?Kc=GNHHNOlogin&orderClick=c03&retURL=http%3A//www.kyobobook.co.kr/contents/provisionOld.laf"
+          }
+        ],
+        "username": "ph21100169",
+        "password": "ph21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2f9b0a88-08ce-4bf9-8db3-e943a36ba98e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "kyoboreadingtree.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://phis.kyoboreadingtree.co.kr/common/login.do#"
+          }
+        ],
+        "username": "ph21100169",
+        "password": "ph21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "cc2d2f9e-464d-420e-8093-adb27c9bcc4a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "laftel.net",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://laftel.net/auth/email"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "&&Q3dtvTei?3W?a",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "92c4852f-c273-4a3a-8a63-4f1bb25357cc",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "letskorail.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.letskorail.com/korail/com/login.do"
+          }
+        ],
+        "username": "0731565735",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5c969bf1-0294-4387-948c-bd922b04ca7b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "lienjangcrm.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://service.lienjangcrm.com:8000/crm-dist/#/login"
+          }
+        ],
+        "username": "lienjangic",
+        "password": "lienjang1",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7f8161a1-ad02-41e9-9b8a-d06423e1fe9a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "linksys",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "username": "muzuk2000@gmail.com",
+        "password": "!Sbs10293847",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "74b787c6-6f45-45c9-af08-07c23f47220d",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "live.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=12&ct=1464914075&rver=6.7.6631.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fonedrive.live.com%3Fgologin%3D1%26mkt%3Dko-KR&lc=1042&id=250206&cbcxt=sky&mkt=ko-KR&lw=1&fl=easi2&username=muzuks%40live.com&bk=1464914094&uaid=d95bd37b6b694a4a897c0d51800314d4&pid=0"
+          }
+        ],
+        "username": "muzuks@live.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "50ad99a6-8e4c-438c-8796-dfc1a6a63390",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8080/"
+          }
+        ],
+        "username": "abijou1111",
+        "password": "1111",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0747e4d6-2608-4579-93e5-0dffb805026f",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8080/emr/main/main.do"
+          }
+        ],
+        "username": "admin",
+        "password": "1",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "161d545a-0a25-4032-90f8-d52b6e99c5b0",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8085/uat/uia/LoginUsr.do"
+          }
+        ],
+        "username": "admin",
+        "password": "1234qwer",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "73664e16-9698-4871-a900-7af0de88befd",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8088/uat/uia/LoginUsr.do"
+          }
+        ],
+        "username": "admin",
+        "password": "1234qwer",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e76d4929-88f8-465b-bf17-008972aa86ab",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8090/uat/uia/LoginUsr.do"
+          }
+        ],
+        "username": "admin",
+        "password": "1",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b4e8b9f8-bd57-440f-a4f7-ec88720403f7",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8080/login"
+          }
+        ],
+        "username": "cannabis",
+        "password": "ejrgk0312",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "294bf680-25f2-47e8-93e6-87ecee2359c5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8090/uat/uia/actionMain.do"
+          }
+        ],
+        "username": "cks6451",
+        "password": "dogen1234",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "16077816-6377-4b69-bf75-4e046dae124d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://localhost:47990/welcome"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "98cc82bb-8b7e-4bdb-a8b6-a15b463603e2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "localhost",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://localhost:8090/uat/uia/actionSsoLogin.do?epTicket=LOG"
+          }
+        ],
+        "username": "yoonsangan",
+        "password": "dogen1234",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "dff02cd3-14f3-44f2-86e6-0121eb07cdec",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "logicahealth.org",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://id.logicahealth.org/auth/realms/master/login-actions/registration?client_id=reference-auth&tab_id=HVbriZIYXrg"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bb9647fb-064a-4318-9953-85a6b180bec2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "login.docker.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.docker.com/u/login/password?state=hKFo2SAxTEEteU91V2tfdnI0ZmJwYWtYQ2MyRWxkanZBSDQtUqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDU4YVIwWHBNZklWQ295NUszMjF2Sndka3ZWVmlEYXpOo2NpZNkgbHZlOUdHbDhKdFNVcm5lUTFFVnVDMGxiakhkaTluYjk"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a94e1569-ee00-4d48-a098-e634d45903bd",
+      "organizationId": null,
+      "folderId": "00170023-cf99-433f-aad2-01e62d4ab75e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "login.live.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.live.com/ppsecure/post.srf"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c32d20f6-c30b-4d5e-820d-2a800bdd8dec",
+      "organizationId": null,
+      "folderId": "592463f0-554d-4e57-9cc9-3ca716e09a79",
+      "type": 1,
+      "reprompt": 0,
+      "name": "login.teamviewer.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.teamviewer.com/LogOn"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9e5685f3-31cd-4ace-b8b9-d927a8c9161a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "login.tidal.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.tidal.com/authorize?client_id=bakYq0nMtpuRYDtM&lang=en&redirect_uri=https%3A%2F%2Faccount.tidal.com%2Flogin%2Ftidal%2Freturn&response_type=code&restrict_signup=true&state=c643e52f-4d88-48fb-89bc-87ad48625ec5&geo=AR&campaignId=default"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5596bb65-a6e9-4c6d-b9fe-38ed34ee65c5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "login.vitalsource.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.vitalsource.com/registration?redirect_uri=https%3A%2F%2Fonline.vitalsource.com%2F%23%2F&brand=online.vitalsource.com"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!Sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8f2277d9-a20f-4cc0-aa92-54374774a77c",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "lottecinema.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.lottecinema.co.kr/LHS/LHFS/Global/Main/Index.aspx"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "3a1ebb1c-c338-4550-b393-2c5a88f221fa",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "lotteon.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.lotteon.com/p/member/login/common?rtnUrl=https://www.lotteon.com/p/mylotte/index/main"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "85439a9e-0456-44e8-a169-2f0d13ce99c6",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "m.akmall.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://m.akmall.com/login/Login.do"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c6f25364-8287-49fc-9035-43fc9b92aba6",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "m.dmbplus.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://m.dmbplus.co.kr/login"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "08c5c05e-5cd9-48a6-a4cd-0c5c1a8f6abe",
+      "organizationId": null,
+      "folderId": "cdd25598-0d33-415e-83dc-756cd802106a",
+      "type": 1,
+      "reprompt": 0,
+      "name": "m.okmall.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://m.okmall.com/member/login.html"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bb16358e-ba84-4efc-b785-132d7b29a988",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "m.tvnori.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://m.tvnori.com/sign.php"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "21da319a-d31b-477b-92f6-94cdcb290944",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "mariooutlet.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.mariooutlet.co.kr/mario_ko/member/login.jsp"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5769344e-fd50-4827-b933-8ee40f4e5f78",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "melon.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://member.melon.com/muid/web/login/login_informM.htm"
+          }
+        ],
+        "username": "muzuk200",
+        "password": "!s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ae311f72-f031-4f0c-9a2c-b62bb11078f9",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "member.okcashbag.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://member.okcashbag.com/mb/ocb/login/login/MOCB/687474703A2F2F6d2e6f6b636173686261672e636f6d2F696e6465782e6d6f63623F6c6f67696e3D59"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6654039b-ee18-4b8e-8d62-39cb04e5418e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "memberssl.auction.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://memberssl.auction.co.kr/Authenticate/?url=http%3a%2f%2fwww.auction.co.kr%2f&return_value=0"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "96e1fa0a-e2fd-4fd2-829b-a07f045eff99",
+      "organizationId": null,
+      "folderId": "8a6df411-4049-40ba-8361-5fb966f3862e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "microsoftonline.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637637348433476837.ZWRjZmViMzktNzFlYi00YzRkLTkwYjctOGE3NmM0NzU3YzU0NjUxYzhmZmEtOTFkOS00ZDY3LTgyMmQtMzAwYWY4ZTkzZTZl&ui_locales=ko&mkt=ko&client-request-id=6465a4a1-09cf-4d95-8e27-fb7253dca853&state=JTyV-dIpY3yvOFFHl3Q_DTXfVXLkSLHX-svrMd1VX3SGJXZfLL_kCSjBxfYkeyxAjyd9vj6k5aLrRQPKbQEEtF-Gh-DNenHreozFgNP6JaONGqP_6Jn7LVHcdmThky1OqgrxB0pv-29laFFLxfTyetfH14aazEKzlh7fUDRIIDTSyi6ILpIqSOfxqDWxs_CcbRIq-kgsU8LuBfGoZBPoQFiEHhHXMFXhtpPDuFz0IwNiyIE8kGoQ7jwmTsz-6vcyRgqqeDlLn35rcQLPd70VFOaP54SeeYihOKKUYWvFyHE&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.8.0.0"
+          }
+        ],
+        "username": "yrnrg@fqt.me",
+        "password": "t26929495!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d099d803-7516-4728-9951-9116f7c77309",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "minjoo2017.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.minjoo2017.kr/tec/tec2.php"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "23f0ddd6-a0a9-4b14-8740-85079a61a2b1",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "miplatform.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.miplatform.co.kr/Miplatform/NewHome/asp/login/Login.asp"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "56c75bde-b6f9-4805-80c1-6e4601dc4d66",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "miplatform.co.kr (2)",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.miplatform.co.kr/Miplatform/NewHome/asp/login/Login.asp"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "26f7f66a-570c-43f8-b7fe-53d63245495c",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "mobile.gmarket.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://mobile.gmarket.co.kr/Login/Login"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "61d76585-79bf-40ed-97d0-9d7417b6afd5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "modaoutlet.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.modaoutlet.com/auth/login"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "dc1f680f-ae5e-47ee-8580-22a0c1dc49ee",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "modoodoc.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.modoodoc.com/doctors/14757/%EC%97%B0%EC%84%B8%EC%A2%8B%EC%9D%80%EC%86%90%EC%B9%98%EA%B3%BC%EC%9D%98%EC%9B%90-%EC%84%9C%EC%9A%B8%EC%8B%9C-%EC%84%9C%EC%B4%88%EA%B5%AC/#reviewdetailinfo"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0c7b5d3e-cc9a-4ebf-b497-38c9cbc740b5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "musinsa.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.musinsa.com/auth/login?referer=https%3A%2F%2Fwww.musinsa.com%2Fapp%2Fgoods%2F2736875%3Floc%3Dgoods_rank"
+          }
+        ],
+        "username": "muzuks",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d9375b72-c0ad-4d6d-a09f-270a85960aec",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "muzuk2000.ipdisk.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://muzuk2000.ipdisk.co.kr:9091/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "1af01529-e1bd-4d18-a051-8f378a35e53f",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "muzuk2000.synology.me",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://muzuk2000.synology.me:5001/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "214582de-5898-445d-9fad-33479c0fa0ff",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "muzuk2000.synology.me",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://muzuk2000.synology.me:5102/#/settings/options"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2a481338-2380-4827-bdc1-1bc6b348e294",
+      "organizationId": null,
+      "folderId": "5b66200e-71d7-40d2-a6af-0e134d13fdb2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "muzuka5004ns.iptime.org",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://muzuka5004ns.iptime.org:5000/sess-bin/login_session.cgi"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b1fab7c8-5bf1-4e67-a5c1-bcdf46319a49",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "muzuka5004ns.iptime.org (2)",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://muzuka5004ns.iptime.org:5000/sess-bin/login_session.cgi"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9a9f56c6-cfea-4b95-b2eb-fb993eb82fe0",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "my.anydesk.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://my.anydesk.com/auth/realms/myanydesk/protocol/openid-connect/auth?client_id=myanydesk-frontend&code_challenge=RQtSqRXiVHAk6Wcc9xZYd271iOXb8-7MOANchJ1-nuk&code_challenge_method=S256&kc_idp_hint=custom-idp&redirect_uri=https%3A%2F%2Fmy.anydesk.com%2Fv2%2F&response_mode=fragment&response_type=code&scope=openid&state=34ef242e-06c0-4622-12345678a0d-df3e00e33049&ui_locales=en"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!@Sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "1e34531c-f9a9-42a9-bcb3-20b9d3aa11b1",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "na.account.amazon.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://na.account.amazon.com/ap/signin?_encoding=UTF8&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.pape.max_auth_age=0&ie=UTF8&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=lwa&openid.assoc_handle=amzn_lwa_na&marketPlaceId=ATVPDKIKX0DER&arb=936984e6-236f-4e28-acfb-0feeea60d377&language=ko_KR&openid.return_to=https%3A%2F%2Fna.account.amazon.com%2Fap%2Foa%3FmarketPlaceId%3DATVPDKIKX0DER%26arb%3D936984e6-236f-4e28-acfb-0feeea60d377%26language%3Dko_KR&enableGlobalAccountCreation=1&metricIdentifier=amzn1.application.23bb88a3364a4a338d01460521aaccf4&signedMetricIdentifier=u4L2V%2BFqv7iV9kMlW8N3cKWFBvYzOBLaC6fJq1UyWRQ%3D"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bce7cfa8-7798-4e10-ba9f-5f3e4385bfa7",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "nate.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.nate.com/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9c214666-434e-4037-a8a4-b4aa0495619b",
+      "organizationId": null,
+      "folderId": "50de9c2c-2b0c-4c56-9e95-e6835042b541",
+      "type": 1,
+      "reprompt": 0,
+      "name": "naver.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.naver.com/"
+          },
+          {
+            "match": null,
+            "uri": "androidapp://com.shinhan.stax"
+          }
+        ],
+        "username": "muzuks",
+        "password": "ss00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "304dbcc9-35b5-4998-acf6-aef90bc16596",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "ncore.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://ncore.co.kr/bbs/join.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9432a43e-c80e-4ab0-93b0-eda21cad9cf2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "net.cj.cjhv.gs.tving",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "androidapp://net.cj.cjhv.gs.tving"
+          }
+        ],
+        "username": "dnsl6785",
+        "password": "aa001526",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a7b5c0b1-9f67-48fe-adde-5fa05d5a2e8c",
+      "organizationId": null,
+      "folderId": "313a83e7-f2eb-4885-b17b-dcd63abecda6",
+      "type": 1,
+      "reprompt": 0,
+      "name": "netflix.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.netflix.com/kr/login"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c9472169-8aeb-4788-ba5e-62a41ffe0861",
+      "organizationId": null,
+      "folderId": "5b66200e-71d7-40d2-a6af-0e134d13fdb2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "nid.naver.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://nid.naver.com/nidlogin.login"
+          }
+        ],
+        "username": "muzuks",
+        "password": "ss00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7340801c-a89a-495c-9f68-5466573d8fa1",
+      "organizationId": null,
+      "folderId": "592463f0-554d-4e57-9cc9-3ca716e09a79",
+      "type": 1,
+      "reprompt": 0,
+      "name": "noip.com",
+      "notes": "muzuk2000.ddns.net",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.noip.com/sign-up"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "54a2977d-af0b-42f8-a69b-a80db8d28726",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "nuhis.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://nuhis.co.kr/fr/home/login.do"
+          }
+        ],
+        "username": "muzuks@cef.or.kr",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b9eef377-b649-4315-a449-7bcba6d3262a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "ojc.asia",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://ojc.asia/bbs/register_form.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "41614d17-7b6d-47c9-a5e3-aaa6a1836f07",
+      "organizationId": null,
+      "folderId": "8a6df411-4049-40ba-8361-5fb966f3862e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "oracle.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://profile.oracle.com/myprofile/account/create-account.jspx?nexturl=https%3A%2F%2Flogin.oracle.com%2Foam%2Fserver%2Fosso_login%3FSite2pstoreToken%3Dv1.2%7EEC062A1473FF0629A4%7E091EC76938D1B8EA0E6B59870E20EF83C7D393862646BD453CBA56DEB310A0C4F2DEE818F03C4E1026F0D6BCFB00DAAE8A78B167ACFDCCD624A77E9A0C8D50D6326DB04F5DBADD6D36A9E2E1852B5FC51369DD9273E4C2F1B24DCAB423841DA2D5E09E27CC45DCACE18FA0DD33955485FD5FD14C9F0C768032663ED61860E7D241A371B5A1DA784C5022A1C361930A53C4AAA1B62F5A3EA53E69F41A17CCACFF79928BB842595826E6BC402AEA46C55A284C028D11CEE72E85D4D7BF204F31C067ACE1B3ED87A4E8E4CC8764EFC74E5D0D83E918387D0D8B2427739752192A049091AD593731E2C8B70DDB1E9F4DBDC7"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!Sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7192f710-a762-4b89-b6fa-e12251c916b8",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "payco.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://id.payco.com/login.nhn?bid=H4IDSYN5ZILVSFE08AF6UFUNI"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0cc358c9-da65-4263-841f-19cc89ed771d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "pcgear.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.pcgear.co.kr/bbs/Join.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "ss112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9917ade0-b480-4891-86db-19fbbd96142b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "peace-care.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.peace-care.com/member/join.html?skip_intro=de55e4240d4a9a92b6c625501241a537ed52a6852918c1dab673262ebf73d8e0732d5b9f9019ba8d660f37bbd31ad0486a2b578ffe57933d55a2eb699cdb3373a766f38c9b949e28c03bfc65c5ee95d74e3dc13953e706a65dca2ae0eaf3ed3f60f5e8eed0eb95c8a41eafef41745016ca13608ece44bcb1e583e1bb2e7ac5375fcbcc0075f63c4757a36f6d9bd28559#none"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "6accef6a-5702-4e69-af99-6947e3865827",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "plus-web.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://deck.plus-web.co.kr/bbs/member_login.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "dd93282a-7edb-4f33-8527-a234c5cf09a9",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "podbbang.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.podbbang.com/auth/signin"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a62a52fc-b4d1-462f-af99-4a4387a725c5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "quest.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://id.quest.com/auth/realms/quest/protocol/openid-connect/auth?client_id=www-erwin-com&redirect_uri=https%3A%2F%2Fwww.erwin.com%2Faccount%2Fsigninentrypoint%2F?r%3D%2fregister%2f128774%2f&x-client-ver=1.0.40306.1554&kc_locale=en-US&.persistent=&iss=https%3A%2F%2Fid.quest.com%2Fauth%2Frealms%2Fquest&response_type=id_token&response_mode=form_post&scope=openid&tab_id=KNxXUM5XO4Q&state=OpenIdConnect.AuthenticationProperties%3DD4CD2PYy0bESyNoQeaobThqA_WviqBbiqShxb8uGinvWMecUKP1-TpmdAJ5kLGk1hBYuGVbvX0AFho8xcFYDUVa5Hvl7QGJeukjN4AETe72V7V7CxpmzU911TGi884VYzrfiB_tXRl5Jw9g_26g20U-rYqOypVT5OBWVRmpiS7hhUR_qy5GKDz6YYlbUeNRkiF17XKcTNyIqVPTlriFirCrEqonULlkyaS4OysTTExGefgDubD8nmroPgCV1sEe-s89KskUNQ3dsskDgdJ6wwvA98OWVuRNjMyyF5G6ZibagHxcHu2HivtiEro8lJoga0Pnfx1t8HK3mHc6QZ-0YBcNtZsHrbgdh1tsCnc7fi8GCn90yUmGKgh7J5Au4d5pv&x-client-SKU=ID_NET&nonce=637640700729925095.NWFiOGJjY2YtODMyMS00MmJiLWFkOWYtMjVkYmJiYTk0NWY1MWY2YTBkOWUtYzBiMS00ODgyLThhZmUtMjIzMTc0NzJjOWFj&session_code=yheaGjUXjv5iQWOyYscVQaUMqKAUT"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5c19a7d1-d39a-468c-8c8e-c01233751de6",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "quickconnect.to",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://muzuk2000.jp4.quickconnect.to/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "dde8502e-2f2b-4d5a-96de-6a5ce3c3c808",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "realvnc.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://manage.realvnc.com/en/auth/reset_password?token=eyJhbGciOiJIUzI1NiJ9.eyJwdy1yZXNldCI6dHJ1ZSwic3ViIjoiUlZlVUFrRWZmOXc3WDFlMnhvbSIsImF1ZCI6ImVtYWlsIiwiZXhwIjoxNjI4OTAzMTU3LCJpYXQiOjE2Mjg4MTY3NTcsImVtYWlsIjoibXV6dWsyMDAwQGdtYWlsLmNvbSJ9.6NdpSAR2Zel1bnR-T0S4pVqtgWS7uhoVvQgZ1AuZ9js"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5dc73641-dc42-45a6-9c9a-ad2e90baf96c",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "reberrymanager.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.reberrymanager.com/emr/main/main.do"
+          }
+        ],
+        "username": "admin",
+        "password": "1",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2a4379f4-3bbf-4afb-b47b-c72f21265720",
+      "organizationId": null,
+      "folderId": "cdd25598-0d33-415e-83dc-756cd802106a",
+      "type": 1,
+      "reprompt": 0,
+      "name": "redsoccer.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.redsoccer.co.kr/index.html?branduid=211577&ref=naver_open&NaPm=ct%3Dimimlbvc%7Cci%3D8128a3efc997258c13545df10af528484d0e5d89%7Ctr%3Dslsl%7Csn%3D54417%7Chk%3D073499dff361d24ad50d4cc47eaea110273ad483"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5285df80-8d3d-4fc2-8e8a-9e2cdb3702db",
+      "organizationId": null,
+      "folderId": "ef78d7ca-1eca-4628-8484-e0b96542c8c7",
+      "type": 1,
+      "reprompt": 0,
+      "name": "remote.cmcnu.or.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://remote.cmcnu.or.kr/main.html"
+          }
+        ],
+        "username": "phis20700482",
+        "password": "!yuna6505",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "77138b48-2f29-4f98-8872-fe3eaaf65c0b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "remote.utorrent.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://remote.utorrent.com/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "22e7dd0d-5edf-40ca-a2b1-0f3a785ecd5b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "rgo4.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://rgo4.com/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bf7b7d0d-c995-474e-869f-e3b911e46295",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "ridibooks.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://ridibooks.com/account/signup/form?return_url=https%3A%2F%2Fridibooks.com%2F"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "1q2w3e4r",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "58f5955e-fb22-4dca-a2c6-bd18a6943904",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "samsung.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://account.samsung.com/accounts/v1/SVC/signInGate?response_type=code&locale=ko_KR&countryCode=KR&client_id=19it455cip&redirect_uri=https:%2F%2Fwww.samsungsvc.co.kr%2Fmember%2FmemberRegist.do&state=8104f09120814744b6eda1d9415dd47e&goBackURL=https:%2F%2Fwww.samsungsvc.co.kr&goBackURL=https:%2F%2Fwww.samsungsvc.co.kr&scope=&returnURL=https:%2F%2Fwww.samsungsvc.co.kr%2Freserve%2FresCenter%2FreserveView.do"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "d5ffd4f7-a38c-4cb0-bac3-44d60b3f47da",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "samsung.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://account.samsung.com/account/signIn.do"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "54601b5e-1eb5-40cf-b00f-9b5540614da2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "sccd.wooribank.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://sccd.wooribank.com/"
+          }
+        ],
+        "username": "muzuks",
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "53344ced-3a90-44bf-85cc-e11c09447dff",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "secretok.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://secretok.com/m/"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "fb48049c-5d47-48b9-8adf-3774f2b1f0af",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "secure-kr.uniqlo.com/",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://store-kr.uniqlo.com/display/displayShop.lecs?storeNo=83&siteNo=50706&displayNo=NQ1A01A06A09"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "AH8D7Sn5XEQnycH",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ada30e9e-8d89-4cdb-81e6-ec28f616426d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "seoulcitybus.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.seoulcitybus.com/sub.php"
+          }
+        ],
+        "username": "손범성",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "3e8557fb-fbe9-447f-9148-47d33b875944",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "signin.aws.amazon.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-west-2_06a71dbc9ac03209&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=O3qVoszs15wUYvSdIM6XeVpRGkm4vsUyK6sxS-gnU6Q&code_challenge_method=SHA-256"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!@s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "44c61ed8-e836-47bd-a4be-c81a0e9f7df2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "signin.aws.amazon.com2",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-west-2_06a71dbc9ac03209&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=O3qVoszs15wUYvSdIM6XeVpRGkm4vsUyK6sxS-gnU6Q&code_challenge_method=SHA-256"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "!Ss00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "14fc0d18-1bcb-443c-90e9-29d4ed469d2a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "signin.rockstargames.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://signin.rockstargames.com/signin/user-form?cid=socialclub"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!Sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8570686a-5235-455c-8884-bdb160d7fb2d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "skens.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.skens.com/koone/login/login.do"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "EnWfa5JKUbTe4@$",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "407033b8-fad7-408e-a8ab-5e0c6a9f329b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "skmagic.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://service.skmagic.com/web/user/indexLogin.do?returnUrl=%2Fweb%2Fmypage%2Frntl%2FgetRntlProdInfo.do%3FtabTyp%3DpmntMthdInfo"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b0515268-547d-4f73-a233-3679014d7ae7",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "skmagic.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.skmagic.com/indexLogin?loginType=PSN&returnUrl=%2Fmain"
+          }
+        ],
+        "username": "muzuks@naver.com",
+        "password": "!s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "315624c7-c80f-44eb-a290-64ec0c8a8403",
+      "organizationId": null,
+      "folderId": "ceab5bde-6636-4833-a046-ece87261ca7a",
+      "type": 1,
+      "reprompt": 0,
+      "name": "skt-id.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://auth.skt-id.co.kr/auth/authorize.do?client_id=2590d318-0816-4a4c-bc2f-a2e24a319459&client_secret=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.J67owYlDARKb_4ZIPXXe_FoFMbZAXnhoK4medjya0Rctax9fd0KPtw.rD2_eEIYXUno_HnC.lnVbBs0fxNJfajufW7Qmm83VEFfvVdjLvMigZVS_-x_asyzaE1wh4SHVOkCwPQHWFJvQLScl5cDjGM8EqFiH.REO2AcLw5q4mqyZpMDU5Rw&client_type=WEB&redirect_uri=http://www.tworld.co.kr/poc/tid/tid_request.jsp&scope=openid&response_type=id_token%20token&popup_request_yn=N&internal_proc_yn=Y&service_type=14&state=1e18b9e18c3f3&nonce=c1d602e785de&chnl_q=cmV0dXJuVVJMPWh0dHAlM0ElMkYlMkZ3d3cudHdvcmxkLmNvLmtyJTNBODAlMkZub3JtYWwuZG8lM0ZzZXJ2aWNlSWQlM0RTX01ZVFcwMDI4JTI2dmlld0lkJTNEVl9NWVRXMDEzMCZwb3B1cD1O"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "ba54a6c4-0e8e-48bc-bb2e-10c7149838bd",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "sktelecom.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://developers.sktelecom.com/login/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "4875c23c-abe7-42c6-8afd-ebbd5569be40",
+      "organizationId": null,
+      "folderId": "d058679d-34e1-4173-a51d-049480f63d3e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "sony.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://my.account.sony.com/central/signin/?duid=000000070009010046da3ab41d9582779ac476759c62dfcb76bd2c40d90d97688b6fb08c54b7d4bd&response_type=code&client_id=e4a62faf-4b87-4fea-8565-caaabb3ac918&scope=web%3Acore&access_type=offline&state=c495577b4d01b9930ad065f5d2a87e502cad218b7d005319a29720d6d5067e1c&service_entity=urn%3Aservice-entity%3Apsn&ui=pr&redirect_uri=https%3A%2F%2Fweb.np.playstation.com%2Fapi%2Fsession%2Fv1%2Fsession%3Fredirect_uri%3Dhttps%253A%252F%252Fio.playstation.com%252Fcentral%252Fauth%252Flogin%253Flocale%253Dko_KR%2526postSignInURL%253Dhttps%253A%252F%252Fwww.playstation.com%252Fko-kr%252Fps5%252F%253Femcid%253Dpa-co-261266%2526utm_medium%253DPaid_Search%2526utm_campaign%253D%2526utm_source%253D%2526utm_term%253Dpa-co-261266%2526utm_content%253DPS5%2526emcid%253Dpa-co-261266%2526utm_medium%253DPaid_Search%2526utm_campaign%253D%2526utm_source%253D%2526utm_term%253Dpa-co-261266%2526utm_content%253DPS5%2526gclid%253DCjwKCAiAv4n9BRA9EiwA30WND37C-2wzOCOTshRrgXtdy4oi6y9Y"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2c6c0e93-c7a8-469a-8fc0-b08dacdc1466",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "spib.wooribank.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://spib.wooribank.com/pib/Dream"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "602dab1a-0dfe-49aa-9aaa-987bf46c3359",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "srail.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://etk.srail.kr/cmc/01/selectLoginForm.do?pageId=TK0701000000"
+          }
+        ],
+        "username": "2081345667",
+        "password": "!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5f95e63f-0827-4ed9-9fa0-0efaa874f365",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "staremr.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://staremr.com/uat/uia/LoginUsr.do"
+          }
+        ],
+        "username": "admin",
+        "password": "1234qwer",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e25528a9-d2ed-41cd-a25d-d829494b6c48",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "staremr.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.staremr.com/uat/uia/LoginUsr.do"
+          }
+        ],
+        "username": "admin",
+        "password": "1234qwer",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "90d51f3e-acaf-4f7a-976b-4a45e55dc8b6",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "store.steampowered.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_4__global-header"
+          }
+        ],
+        "username": "muzuks",
+        "password": "yn4DhfnSc!-L@u,",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "253d69b1-73a4-45e4-9e6f-d2aa8eaf3365",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "support.tobesoft.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://support.tobesoft.co.kr/Support/index.html"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "1d89c3f2-32f9-46b1-a711-4c1b354b04f6",
+      "organizationId": null,
+      "folderId": "cdd25598-0d33-415e-83dc-756cd802106a",
+      "type": 1,
+      "reprompt": 0,
+      "name": "swim.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.swim.co.kr/shop/idinfo.html"
+          }
+        ],
+        "username": "손범성",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c9c63d2b-c4d5-46d3-afa8-3ad0e4f7246d",
+      "organizationId": null,
+      "folderId": "8a6df411-4049-40ba-8361-5fb966f3862e",
+      "type": 1,
+      "reprompt": 0,
+      "name": "synology.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://account.synology.com/ko-kr/oauth2/login/home?login_challenge=543c85b655984a3abb8e93caf0f0fd19"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8fa605d2-4789-4ad5-9dfd-c7028bcdb6fd",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "themoviedb.org",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.themoviedb.org/login"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0a67edab-842b-4a2a-a3ec-62ffa9d4bd80",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "timepc.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://timepc.co.kr/bbs/register.php?tab=1"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "!s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b59febd6-5701-401c-9757-6448d9b0bde6",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "tmon.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://login.tmon.co.kr/user/loginform?return_url=http%3A%2F%2Fwww.tmon.co.kr%2Fdeal%2F2535894214%3FNaPm%3Dct%253Dk2n7aybs%257Cci%253Db754cbe613974c3af32b405421de830435c6ed85%257Ctr%253Dslsl%257Csn%253D221844%257Chk%253D3f437b296d746adf9868011ae82ed788b1ee1ce1%26coupon_srl%3D2432122%26utm_source%3Dnaver%26utm_medium%3Daffiliate%26utm_term%3D%26utm_content%3D%26utm_campaign%3DMETA_%25EB%2584%25A4%25EC%259D%25B4%25EB%25B2%2584%25EC%25A7%2580%25EC%258B%259D%25EC%2587%25BC%25ED%2595%2591"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7881e373-4f40-47b0-8b4a-d93508c7f330",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "tmup.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://tmup.com/team/invite"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b865ad0a-ae34-4a12-b7b7-ff500b2e58fe",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "toad.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.toad.co.kr/member.php?goPage=Join"
+          }
+        ],
+        "username": "gmail.com",
+        "password": "@sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "bcb7ced3-64cf-42c0-ab40-a8efd2112e5a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "torrentdia97.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://torrentdia97.com/bbs/register_form.php"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s11223344",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "2acfa0cd-42c0-4371-9eb0-a10525dbf595",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "uplus.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.uplus.co.kr/idi/mbrm/info/ReqLogin.hpi"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "8a1edce8-4162-4400-947d-07e88030ed97",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "us.battle.net",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://us.battle.net/login/ko/?ref=https://oauth.battle.net/oauth/authorize?response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.blizzard.com%252Fauth%252Fbnet%252Fcallback%26scope%3Dlogout%2520account.licenses%2520email%2520name%2520private_flags%2520primary-address%2520account.full%26client_id%3D3d87a4f120754e15840548b68d9ea4db&app=oauth"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "338866ae-9c91-4783-a8ce-3c59a11fa8a5",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "vno.co.kr",
+      "notes": "2차비번 : s00701057",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://cert.vno.co.kr/IPIN/pubmain.cb"
+          }
+        ],
+        "username": "muzuks",
+        "password": "!sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b8af85e7-6668-44e4-b33c-fe4782148ed4",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "watcha.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://watcha.com/ko-KR/contents/tR4J7ea"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0e94f111-98de-4c27-a68d-9bce0b596a56",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "watcha.net",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://play.watcha.net/sign_in"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "40a052d8-2732-4e81-9f50-0eec2ac12735",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "webmail.dogen.cafe24.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://webmail.dogen.cafe24.com/intro.php"
+          }
+        ],
+        "username": "mujuk",
+        "password": "mujuk123",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a3e94b4f-e77c-4652-b2ee-9ff5c70cb685",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "webmail.dogen.cafe24.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://webmail.dogen.cafe24.com/intro.php"
+          }
+        ],
+        "username": "mujuk",
+        "password": "mujuk123",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b373cd45-d9ca-46a7-b3df-e3059ff4d651",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "webmail.dogen.cafe24.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://webmail.dogen.cafe24.com/intro.php"
+          }
+        ],
+        "username": "muzuk",
+        "password": "muzuk200",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5306cb16-06cd-4a29-9cc5-34067068c3e8",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "welstorymall.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.welstorymall.com/secure/login/initLogin.action"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "1939c3fb-f3c3-4cc8-8b8c-aa206f48ec4a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.avdbs.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.avdbs.com/menu/member/mypage.php"
+          }
+        ],
+        "username": "qpxzqwezxc",
+        "password": "q1w2e3r4",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "083e975f-389e-448e-a76b-ce84bc51e686",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.inflearn.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.inflearn.com/#"
+          }
+        ],
+        "username": "muzuk2000@gmail.com",
+        "password": "s21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "77d281cd-1ae0-4ff5-969a-8f0f2b39bbac",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.iros.go.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://www.iros.go.kr/PMainJ.jsp"
+          }
+        ],
+        "username": "muzuks",
+        "password": "!Sbs646519",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "b18f16fe-4c6a-4fbf-bd20-e204087b5bb0",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.lotteimall.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.lotteimall.com/main/viewMain.lotte?dpml_no=1#disp_no=5203359"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "df360b41-f6f4-4504-acd5-332708429602",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.nvidia.com",
+      "notes": "muzuk2000@gamil.com",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.nvidia.com/ko-kr/account/edit-profile/"
+          },
+          {
+            "match": null,
+            "uri": "https://‎oauth.gfn.co.kr"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "nUUJqw2SQbvJS@",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "702bd3ec-de33-4453-8934-4b3442c50357",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.oliveyoung.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.oliveyoung.co.kr/store/login/loginForm.do"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@sbs21100169",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "0d004324-6b7c-4f13-867d-a807c2e71765",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.samsungpop.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.samsungpop.com/"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7b0c8e6f-f267-49d5-a5e9-7a164fe828ef",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.ssg.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.ssg.com/item/itemView.ssg?itemId=1000049114211&siteNo=6001&salestrNo=6005&ckwhere=ssg_naver&appPopYn=n&utm_medium=PCS&utm_source=naver&utm_campaign=naver_pcs&NaPm=ct%3Dlafgb3sg%7Cci%3D944c8ddb3343eeee43daa8f26d7d2880cdd4fb99%7Ctr%3Dslbrc%7Csn%3D218835%7Chk%3Df1cb78a880a2686c9b29124301ae4e96bf57c674"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "KD5^q8iYBCxb$H",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "3088ecd2-a655-4cc0-b1d7-f29c2c09b561",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "xo.nate.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://xo.nate.com/PopUpLogin.sk"
+          }
+        ],
+        "username": null,
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "031165dd-3113-42d4-b77b-5ca377cbfd4b",
+      "organizationId": null,
+      "folderId": "2397ce42-c7cc-4080-805d-acd0fa82fa89",
+      "type": 1,
+      "reprompt": 0,
+      "name": "yakult.co.kr",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.yakult.co.kr"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "s112233",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "34534568-c17b-484f-a893-e6f4c3ebca1f",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "yes24.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://‎m.yes24.com"
+          }
+        ],
+        "username": "muzuk2000",
+        "password": "@!sbs00701057",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ]
+}
